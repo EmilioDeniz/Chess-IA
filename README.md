@@ -1,5 +1,4 @@
 # Chess-IA
-Trabajo 2 de FSI: entrenar una Inteligencia Artificial de reconocimiento de imágenes
 
 - El conjunto de datos contiene imagenes de piezas de ajedrez, todas de la misma resolución con un total de 5 clases con 139, 115, 82,174 y 141 imagenes, correspondiendo al alfil,caballo,peón,reina y torre respectivamente.
 
