@@ -1,6 +1,8 @@
 # Chess-IA
 
-- El conjunto de datos contiene imagenes de piezas de ajedrez, todas de la misma resolución con un total de 5 clases con 139, 115, 82,174 y 141 imagenes, correspondiendo al alfil,caballo,peón,reina y torre respectivamente.
+- El conjunto de datos contiene imagenes de piezas de ajedrez, todas de la misma resolución con un total de 6 clases con 139, 115, 82,174 y 141 imagenes, correspondiendo al alfil,caballo,peón,reina y torre respectivamente. 
+
+ Enlace al dataset : https://www.kaggle.com/datasets/niteshfre/chessman-image-dataset
 
 - Para mejorar los resultados, hemos usado data augmentation.
 
